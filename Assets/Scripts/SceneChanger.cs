@@ -9,6 +9,10 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("StartScene");
     }
+    public void playGame()
+    {
+        SceneManager.LoadScene("MapScene");
+    }
     public void settingsMenu()
     {
         SceneManager.LoadScene("SettingsScene");
