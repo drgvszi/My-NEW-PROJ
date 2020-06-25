@@ -8,6 +8,7 @@ public class PlayerMov : MonoBehaviour
     public Rigidbody2D RB;
     Vector2 mvm;
     public Animator animator;
+    
     // Update is called once per frame
     void Update()
     {
@@ -16,6 +17,7 @@ public class PlayerMov : MonoBehaviour
         animator.SetFloat("Horizontal", mvm.x);
         animator.SetFloat("Vertical", mvm.y);
         animator.SetFloat("Speed", mvm.sqrMagnitude);
+      
     }
     void FixedUpdate()
     {
