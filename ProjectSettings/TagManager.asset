@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 147727881
+    locked: 0
+  - name: Ground_Lv1
+    uniqueID: 2939093393
+    locked: 0
+  - name: Player
+    uniqueID: 1024472955
+    locked: 0
+  - name: ONTHEM
+    uniqueID: 1419556063
+    locked: 0
