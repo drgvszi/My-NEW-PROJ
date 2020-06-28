@@ -1,0 +1,2138 @@
+fileFormatVersion: 2
+guid: 0b1196ec8bb7c8842a6fd1d79a55c21e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3499090055380750628
+    second: shadowset_0
+  - first:
+      213: -911472241046831743
+    second: shadowset_1
+  - first:
+      213: -7341888678221376160
+    second: shadowset_2
+  - first:
+      213: -6368472538697070550
+    second: shadowset_3
+  - first:
+      213: -6125043610933501922
+    second: shadowset_4
+  - first:
+      213: 8372330532844899886
+    second: shadowset_5
+  - first:
+      213: 3941531250457459332
+    second: shadowset_6
+  - first:
+      213: -7336723006085611627
+    second: shadowset_7
+  - first:
+      213: -236205178422890107
+    second: shadowset_8
+  - first:
+      213: -1118346539838400484
+    second: shadowset_9
+  - first:
+      213: 7026760966034101857
+    second: shadowset_10
+  - first:
+      213: 8073143535615546030
+    second: shadowset_11
+  - first:
+      213: -5878446893529043024
+    second: shadowset_12
+  - first:
+      213: -5841531131847984846
+    second: shadowset_13
+  - first:
+      213: 8667640830810266100
+    second: shadowset_14
+  - first:
+      213: 713365872924157239
+    second: shadowset_15
+  - first:
+      213: -577381008534616453
+    second: shadowset_16
+  - first:
+      213: 5745379583081924478
+    second: shadowset_17
+  - first:
+      213: 339541902240447343
+    second: shadowset_18
+  - first:
+      213: 8338599366189315830
+    second: shadowset_19
+  - first:
+      213: 2708828121637291563
+    second: shadowset_20
+  - first:
+      213: -8127033715515192723
+    second: shadowset_21
+  - first:
+      213: 3911878675554473780
+    second: shadowset_22
+  - first:
+      213: -783801320463471475
+    second: shadowset_23
+  - first:
+      213: 5135400297654222813
+    second: shadowset_24
+  - first:
+      213: 8069647091286181624
+    second: shadowset_25
+  - first:
+      213: 5505440801918548571
+    second: shadowset_26
+  - first:
+      213: -2118321928296746367
+    second: shadowset_27
+  - first:
+      213: -4927809778180609811
+    second: shadowset_28
+  - first:
+      213: 8336406668817025798
+    second: shadowset_29
+  - first:
+      213: -4104878996875464388
+    second: shadowset_30
+  - first:
+      213: -8986217471855524465
+    second: shadowset_31
+  - first:
+      213: 1096625698230609465
+    second: shadowset_32
+  - first:
+      213: 8178935786667897405
+    second: shadowset_33
+  - first:
+      213: -3401740425750593787
+    second: shadowset_34
+  - first:
+      213: -2766572675297574868
+    second: shadowset_35
+  - first:
+      213: -5270382534116268513
+    second: shadowset_36
+  - first:
+      213: 623105574857249442
+    second: shadowset_37
+  - first:
+      213: 2166533877738604823
+    second: shadowset_38
+  - first:
+      213: 3425275165380710396
+    second: shadowset_39
+  - first:
+      213: -2844025526781153467
+    second: shadowset_40
+  - first:
+      213: -1170392318915092561
+    second: shadowset_41
+  - first:
+      213: -4230767787152292597
+    second: shadowset_42
+  - first:
+      213: 6433329773617087504
+    second: shadowset_43
+  - first:
+      213: -5343006944102804481
+    second: shadowset_44
+  - first:
+      213: -8686464873511424633
+    second: shadowset_45
+  - first:
+      213: -993148163585090859
+    second: shadowset_46
+  - first:
+      213: -7010766249305134502
+    second: shadowset_47
+  - first:
+      213: -5017803283134168892
+    second: shadowset_48
+  - first:
+      213: -6539174334169369055
+    second: shadowset_49
+  - first:
+      213: 4525194722015822485
+    second: shadowset_50
+  - first:
+      213: -1176341036700463907
+    second: shadowset_51
+  - first:
+      213: -706897186489110014
+    second: shadowset_52
+  - first:
+      213: 4316400974558943154
+    second: shadowset_53
+  - first:
+      213: 3340249003361854201
+    second: shadowset_54
+  - first:
+      213: -3045561277389954425
+    second: shadowset_55
+  - first:
+      213: 1641178556774477308
+    second: shadowset_56
+  - first:
+      213: 265185454096379503
+    second: shadowset_57
+  - first:
+      213: -3750927706745397109
+    second: shadowset_58
+  - first:
+      213: 9147105289177635811
+    second: shadowset_59
+  - first:
+      213: -7100492467417658141
+    second: shadowset_60
+  - first:
+      213: -3474090890610968541
+    second: shadowset_61
+  - first:
+      213: 3842835434523149806
+    second: shadowset_62
+  - first:
+      213: -2962547417162056149
+    second: shadowset_63
+  - first:
+      213: -5822176481449356725
+    second: shadowset_64
+  - first:
+      213: 3964449434198737813
+    second: shadowset_65
+  - first:
+      213: 3223145418666645940
+    second: shadowset_66
+  - first:
+      213: 6162763718669511074
+    second: shadowset_67
+  - first:
+      213: -6987192965594940767
+    second: shadowset_68
+  - first:
+      213: 5842241579780616235
+    second: shadowset_69
+  - first:
+      213: 45825633091937041
+    second: shadowset_70
+  - first:
+      213: 1268266724824045257
+    second: shadowset_71
+  - first:
+      213: 8829931654643172033
+    second: shadowset_72
+  - first:
+      213: 3565480848461602898
+    second: shadowset_73
+  - first:
+      213: 8497625612299355029
+    second: shadowset_74
+  - first:
+      213: 1564386317455567510
+    second: shadowset_75
+  - first:
+      213: 3603770590015680879
+    second: shadowset_76
+  - first:
+      213: -8957100891599928307
+    second: shadowset_77
+  - first:
+      213: -1127308457344786209
+    second: shadowset_78
+  - first:
+      213: -6489929618770915277
+    second: shadowset_79
+  - first:
+      213: -8106553064854794381
+    second: shadowset_80
+  - first:
+      213: -5884057948594724806
+    second: shadowset_81
+  - first:
+      213: 2772010079027924754
+    second: shadowset_82
+  - first:
+      213: 647182186737935804
+    second: shadowset_83
+  - first:
+      213: 1870391730911982329
+    second: shadowset_84
+  - first:
+      213: 2452559327681179735
+    second: shadowset_85
+  - first:
+      213: -8281646434021651714
+    second: shadowset_86
+  - first:
+      213: 188871231360554718
+    second: shadowset_87
+  - first:
+      213: -3265877634734434580
+    second: shadowset_88
+  - first:
+      213: 6872620893003717046
+    second: shadowset_89
+  - first:
+      213: -7162777690469001353
+    second: shadowset_90
+  - first:
+      213: 565964102189019404
+    second: shadowset_91
+  - first:
+      213: 8121488188569401283
+    second: shadowset_92
+  - first:
+      213: 2690748470401953429
+    second: shadowset_93
+  - first:
+      213: -4281914259484948834
+    second: shadowset_94
+  - first:
+      213: -697980185664057141
+    second: shadowset_95
+  - first:
+      213: -3726793382044920072
+    second: shadowset_96
+  - first:
+      213: -7283851434470191656
+    second: shadowset_97
+  - first:
+      213: -2241154151392840516
+    second: shadowset_98
+  - first:
+      213: 1845091080511577119
+    second: shadowset_99
+  - first:
+      213: 8989749638162904220
+    second: shadowset_100
+  - first:
+      213: 1444185344358911993
+    second: shadowset_101
+  - first:
+      213: -1966365839348240302
+    second: shadowset_102
+  - first:
+      213: 1877802181736036457
+    second: shadowset_103
+  - first:
+      213: -7181424665084728116
+    second: shadowset_104
+  - first:
+      213: 5506335933902273683
+    second: shadowset_105
+  - first:
+      213: -5082051053652433237
+    second: shadowset_106
+  - first:
+      213: -4150148132178642431
+    second: shadowset_107
+  - first:
+      213: -1369854656143810608
+    second: shadowset_108
+  - first:
+      213: -7325393533456874183
+    second: shadowset_109
+  - first:
+      213: 8121699245466120415
+    second: shadowset_110
+  - first:
+      213: -1890110673170745673
+    second: shadowset_111
+  - first:
+      213: 6109024667468407521
+    second: shadowset_112
+  - first:
+      213: -8660762428240980605
+    second: shadowset_113
+  - first:
+      213: 4885538301096907965
+    second: shadowset_114
+  - first:
+      213: -7421582443113916449
+    second: shadowset_115
+  - first:
+      213: 3987411550001815045
+    second: shadowset_116
+  - first:
+      213: -7255188263631666485
+    second: shadowset_117
+  - first:
+      213: -922561383634226553
+    second: shadowset_118
+  - first:
+      213: -899655208653744129
+    second: shadowset_119
+  - first:
+      213: -5519564281137640782
+    second: shadowset_120
+  - first:
+      213: 4260761711360738108
+    second: shadowset_121
+  - first:
+      213: 3610346589672043558
+    second: shadowset_122
+  - first:
+      213: 1866810476232631115
+    second: shadowset_123
+  - first:
+      213: -1321640751338284390
+    second: shadowset_124
+  - first:
+      213: -2508596034142339269
+    second: shadowset_125
+  - first:
+      213: 8026668499172271959
+    second: shadowset_126
+  - first:
+      213: 8358914891360819773
+    second: shadowset_127
+  - first:
+      213: -495734165675000096
+    second: shadowset_128
+  - first:
+      213: -6690536596607418920
+    second: shadowset_129
+  - first:
+      213: -8044528361531141952
+    second: shadowset_130
+  - first:
+      213: 8555704285925421744
+    second: shadowset_131
+  - first:
+      213: -2675132189923179853
+    second: shadowset_132
+  - first:
+      213: 1477380614491250392
+    second: shadowset_133
+  - first:
+      213: 2998490572422846153
+    second: shadowset_134
+  - first:
+      213: -3437867612233951407
+    second: shadowset_135
+  - first:
+      213: 1544284017921176131
+    second: shadowset_136
+  - first:
+      213: -190359456946896133
+    second: shadowset_137
+  - first:
+      213: 6791198294171785331
+    second: shadowset_138
+  - first:
+      213: 6602359205926796087
+    second: shadowset_139
+  - first:
+      213: 2550813849775315321
+    second: shadowset_140
+  - first:
+      213: -4557724765051862665
+    second: shadowset_141
+  - first:
+      213: 158974640078983834
+    second: shadowset_142
+  - first:
+      213: 3269161801336781814
+    second: shadowset_143
+  - first:
+      213: 4758685910957747057
+    second: shadowset_144
+  - first:
+      213: 4490747834224094134
+    second: shadowset_145
+  - first:
+      213: 646620344490947285
+    second: shadowset_146
+  - first:
+      213: -8333182872878986893
+    second: shadowset_147
+  - first:
+      213: -5033797009852255184
+    second: shadowset_148
+  - first:
+      213: -3039526574742260628
+    second: shadowset_149
+  - first:
+      213: -1345381741698061219
+    second: shadowset_150
+  - first:
+      213: 6448119324595299549
+    second: shadowset_151
+  - first:
+      213: 3720223499339550175
+    second: shadowset_152
+  - first:
+      213: -2287145594252426005
+    second: shadowset_153
+  - first:
+      213: -2905744971623754903
+    second: shadowset_154
+  - first:
+      213: -1913594873590786323
+    second: shadowset_155
+  - first:
+      213: -75061095521829436
+    second: shadowset_156
+  - first:
+      213: 3940982010293794763
+    second: shadowset_157
+  - first:
+      213: 6558187433188685145
+    second: shadowset_158
+  - first:
+      213: 427293105397378237
+    second: shadowset_159
+  - first:
+      213: -4071886415948180213
+    second: shadowset_160
+  - first:
+      213: 5818563644091163598
+    second: shadowset_161
+  - first:
+      213: 2381003066597944736
+    second: shadowset_162
+  - first:
+      213: 6986974813064326946
+    second: shadowset_163
+  - first:
+      213: 5770463963078616872
+    second: shadowset_164
+  - first:
+      213: 4560582968117494492
+    second: shadowset_165
+  - first:
+      213: 333978984835781498
+    second: shadowset_166
+  - first:
+      213: 6385894240167310160
+    second: shadowset_167
+  - first:
+      213: 7242611808705261305
+    second: shadowset_168
+  - first:
+      213: 8615399573518756489
+    second: shadowset_169
+  - first:
+      213: -9108717281063264637
+    second: shadowset_170
+  - first:
+      213: -185498334065525474
+    second: shadowset_171
+  - first:
+      213: 3349152675920413213
+    second: shadowset_172
+  - first:
+      213: -335661920231633331
+    second: shadowset_173
+  - first:
+      213: 4215587242245986728
+    second: shadowset_174
+  - first:
+      213: 938949168581430311
+    second: shadowset_175
+  - first:
+      213: 9049413103772040309
+    second: shadowset_176
+  - first:
+      213: -4919987428983552641
+    second: shadowset_177
+  - first:
+      213: -1682089202064647602
+    second: shadowset_178
+  - first:
+      213: -6078073027792845264
+    second: shadowset_179
+  - first:
+      213: -2340490998137157291
+    second: shadowset_180
+  - first:
+      213: 1255182968085060692
+    second: shadowset_181
+  - first:
+      213: -6512849039470863390
+    second: shadowset_182
+  - first:
+      213: -7758912219348957711
+    second: shadowset_183
+  - first:
+      213: -6612211287235536951
+    second: shadowset_184
+  - first:
+      213: 6936880916670945566
+    second: shadowset_185
+  - first:
+      213: -7752214557989390370
+    second: shadowset_186
+  - first:
+      213: -4095032647137178508
+    second: shadowset_187
+  - first:
+      213: 1334756516006784695
+    second: shadowset_188
+  - first:
+      213: 640079127329116395
+    second: shadowset_189
+  - first:
+      213: -6999411329721791096
+    second: shadowset_190
+  - first:
+      213: 437950596580895949
+    second: shadowset_191
+  - first:
+      213: -8121101833899060379
+    second: shadowset_192
+  - first:
+      213: -665494768873379606
+    second: shadowset_193
+  - first:
+      213: -4600408665431658794
+    second: shadowset_194
+  - first:
+      213: 5360281046927513980
+    second: shadowset_195
+  - first:
+      213: -2905968287495605396
+    second: shadowset_196
+  - first:
+      213: -4679017204382863499
+    second: shadowset_197
+  - first:
+      213: -2027005548078069290
+    second: shadowset_198
+  - first:
+      213: -5849390475752176294
+    second: shadowset_199
+  - first:
+      213: 7121299452449747643
+    second: shadowset_200
+  - first:
+      213: -5521537029786494699
+    second: shadowset_201
+  - first:
+      213: 5971156986465766200
+    second: shadowset_202
+  - first:
+      213: 7369960873963808241
+    second: shadowset_203
+  - first:
+      213: -5785399719243095541
+    second: shadowset_204
+  - first:
+      213: -5433970285982402302
+    second: shadowset_205
+  - first:
+      213: 4040015972808600797
+    second: shadowset_206
+  - first:
+      213: 4995242785007482557
+    second: shadowset_207
+  - first:
+      213: 6343078929126143057
+    second: shadowset_208
+  - first:
+      213: -4545672267358876714
+    second: shadowset_209
+  - first:
+      213: 6596084484344491690
+    second: shadowset_210
+  - first:
+      213: -5418108497319432029
+    second: shadowset_211
+  - first:
+      213: 9127961769359307395
+    second: shadowset_212
+  - first:
+      213: -4471002108689528818
+    second: shadowset_213
+  - first:
+      213: -1607017779302994471
+    second: shadowset_214
+  - first:
+      213: 3572072371706305159
+    second: shadowset_215
+  - first:
+      213: 1440394134599893814
+    second: shadowset_216
+  - first:
+      213: 6133530864659857306
+    second: shadowset_217
+  - first:
+      213: -8445327377303185251
+    second: shadowset_218
+  - first:
+      213: -314271135605471211
+    second: shadowset_219
+  - first:
+      213: 3953320660441472991
+    second: shadowset_220
+  - first:
+      213: -944692115753508997
+    second: shadowset_221
+  - first:
+      213: 5407746099931110040
+    second: shadowset_222
+  - first:
+      213: 927861179950151885
+    second: shadowset_223
+  - first:
+      213: -4951874311849191884
+    second: shadowset_224
+  - first:
+      213: 1167511901113429146
+    second: shadowset_225
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadowset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: -10.556241, y: -2.6001368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeade3322cb07fc0800000000000000
+      internalID: -3499090055380750628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d36c173dcc953f0800000000000000
+      internalID: -911472241046831743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065172a652f5c1a90800000000000000
+      internalID: -7341888678221376160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a288129b7f3ae97a0800000000000000
+      internalID: -6368472538697070550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106888a9497ffaa0800000000000000
+      internalID: -6125043610933501922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8068d24e703470800000000000000
+      internalID: 8372330532844899886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3e960ac123b630800000000000000
+      internalID: 3941531250457459332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb4de2c49be2a90800000000000000
+      internalID: -7336723006085611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581fef544a4d8bcf0800000000000000
+      internalID: -236205178422890107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18152d4fb5da70f0800000000000000
+      internalID: -1118346539838400484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661b068ed1148160800000000000000
+      internalID: 7026760966034101857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea21b15b541990070800000000000000
+      internalID: 8073143535615546030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe33812bf8b6ea0800000000000000
+      internalID: -5878446893529043024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239b0d5a266beeea0800000000000000
+      internalID: -5841531131847984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91e199965a94870800000000000000
+      internalID: 8667640830810266100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e78a5b7266e900800000000000000
+      internalID: 713365872924157239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cc36280bbcf7f0800000000000000
+      internalID: -577381008534616453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77416d5a40bbbf40800000000000000
+      internalID: 5745379583081924478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf665af8b46b400800000000000000
+      internalID: 339541902240447343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f20a91f7a8b370800000000000000
+      internalID: 8338599366189315830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2687cb13d0b79520800000000000000
+      internalID: 2708828121637291563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a081505e9f63f80800000000000000
+      internalID: -8127033715515192723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43799dcede8c94630800000000000000
+      internalID: 3911878675554473780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cea4f0ad06f15f0800000000000000
+      internalID: -783801320463471475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7d19bc5b944740800000000000000
+      internalID: 5135400297654222813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f680e256452dff60800000000000000
+      internalID: 8069647091286181624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5afb428d31476c40800000000000000
+      internalID: 5505440801918548571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b3f7fd653a92e0800000000000000
+      internalID: -2118321928296746367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de829da8d17ec9bb0800000000000000
+      internalID: -4927809778180609811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b490672bdd0b370800000000000000
+      internalID: 8336406668817025798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b6490d4a8807c0800000000000000
+      internalID: -4104878996875464388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8584a302da8a4380800000000000000
+      internalID: -8986217471855524465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a99a234ff73f00800000000000000
+      internalID: 1096625698230609465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f11d93ca618170800000000000000
+      internalID: 8178935786667897405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fbc012b179ac0d0800000000000000
+      internalID: -3401740425750593787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20069b4fc82b99d0800000000000000
+      internalID: -2766572675297574868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16a3974207dbd6b0800000000000000
+      internalID: -5270382534116268513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29eee0837b5a800800000000000000
+      internalID: 623105574857249442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71985704513111e10800000000000000
+      internalID: 2166533877738604823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0c727d95098f20800000000000000
+      internalID: 3425275165380710396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fe0180addf788d0800000000000000
+      internalID: -2844025526781153467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf583f036ee1cfe0800000000000000
+      internalID: -1170392318915092561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054f97fc1b4945c0800000000000000
+      internalID: -4230767787152292597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01404670857c74950800000000000000
+      internalID: 6433329773617087504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39e482e73d9d5b0800000000000000
+      internalID: -5343006944102804481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d617c683a737780800000000000000
+      internalID: -8686464873511424633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadd24d101a732f0800000000000000
+      internalID: -993148163585090859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aaedaad31c4be90800000000000000
+      internalID: -7010766249305134502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0cffbdf7e2d5ab0800000000000000
+      internalID: -5017803283134168892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bb7fc69f2045a0800000000000000
+      internalID: -6539174334169369055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c939cf98bcce30800000000000000
+      internalID: 4525194722015822485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc01c44f0cccafe0800000000000000
+      internalID: -1176341036700463907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202f79211c89036f0800000000000000
+      internalID: -706897186489110014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75cbc21dfe6eb30800000000000000
+      internalID: 4316400974558943154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26cba65c2fa5e20800000000000000
+      internalID: 3340249003361854201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ac7f772efbb5d0800000000000000
+      internalID: -3045561277389954425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde789b333a6c610800000000000000
+      internalID: 1641178556774477308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee307f3c02ea300800000000000000
+      internalID: 265185454096379503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80254dbf1702fbc0800000000000000
+      internalID: -3750927706745397109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb978c0ccb01fe70800000000000000
+      internalID: 9147105289177635811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccb3d88bbf57d90800000000000000
+      internalID: -7100492467417658141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32876b3ddbc89cfc0800000000000000
+      internalID: -3474090890610968541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5490da77e745530800000000000000
+      internalID: 3842835434523149806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowset_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efdc102dae2e6d0800000000000000
+      internalID: -2962547417162056149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

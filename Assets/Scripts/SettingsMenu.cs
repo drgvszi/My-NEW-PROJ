@@ -67,17 +67,18 @@ public class SettingsMenu : MonoBehaviour
     }
     public void ChangeVol(float volume)
     {
-        
+        PlayerPrefs.SetFloat("MVolume", volume);
         if (volume == -35)
         {
             PlayerPrefs.SetFloat("MVolume", -80);
             volMixer.SetFloat("volume", PlayerPrefs.GetFloat("MVolume"));
         }
+        
         else
         {
-            PlayerPrefs.SetFloat("MVolume", volume);
             volMixer.SetFloat("volume", PlayerPrefs.GetFloat("MVolume"));
         }
+        PlayerPrefs.Save();
     }
     public void SetFullscreen(bool isFullscreen)
     {
